@@ -23,3 +23,5 @@
 
 Работу проверили:
 - к.э.н., доцент Панов М.А.
+# 2.1. Установка
+![Меню](https://github.com/KseniaSokolenko/theme_1/edit/theme_1/theme_1.md/Saly-39.png)
